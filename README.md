@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-
-**Bakir-Rayan/Bakir-Rayan** is a ✨ _special_ ✨ repository.
+# I'm Rayan
 
 
 - 🔭 I’m currently working on ...
