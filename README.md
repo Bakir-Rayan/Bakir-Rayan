@@ -1,11 +1,12 @@
+
 <h1 align="center"> Hi there 👋 I'm Rayan </h1>
 
-'''diff
+```diff
 - 🔭 I’m currently working on **DevOps project** <br>
+```
 - 🌱 I’m currently learning **DevOps - AI - Robotics** <br>
 - 👯 I’m looking to collaborate on **open source project** <br>
 - ⚡ Fun fact **I love playing games** <br>
-'''
 
 <h1 align="center">Connect with me:</h1>
 
