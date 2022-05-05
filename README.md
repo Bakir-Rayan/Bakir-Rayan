@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there 👋 I'm Rayan </h1>
 
-- 🔭 I’m currently working on **DevOps project** <br>
+- 🔭 I’m currently working on **DevOps project** and an **autonomous robot** <br>
 - 🌱 I’m currently learning **DevOps - AI - Robotics** <br>
 - 👯 I’m looking to collaborate on **open source project** <br>
 - ⚡ Fun fact **I love playing games** <br>
