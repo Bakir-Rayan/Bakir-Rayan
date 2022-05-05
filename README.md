@@ -12,7 +12,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/rayan-bakir/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/rayan-bakir/"/></a>
 <a href="https://kaggle.com/rayanbak25" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="https://www.kaggle.com/rayanbak25"/></a>  
-<a href="https://discord.gg/G4Z0U#8131" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="G4Z0U#8131"/></a>
 </p>
 
 <h1 align="center">Languages and Tools:</h1>
